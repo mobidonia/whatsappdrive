@@ -1,9 +1,7 @@
 ---
-description: How to get started with AGRSI Cloud?
+description: How to get started with WhatsApp Taxi?
 ---
 
 # Introduction
 
-Welcome to AGRIS's Documentation.
-
-![](<.gitbook/assets/Agris- Cover2x.jpg>)
+Welcome to WhatsApp Taxi's Documentation.

@@ -21,8 +21,6 @@
 * [Set up your site](usage/set-up-your-site.md)
 * [Translations](usage/translations.md)
 * [Custom CSS](usage/custom-css.md)
-* [Import from CSV](usage/import-from-csv.md)
-* [Add your own landing page](usage/add-your-own-landing-page.md)
 
 ## Changelog
 

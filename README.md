@@ -10,7 +10,7 @@ Welcome to WhatsApp Taxi's Documentation.
 
 ### Web project docs
 
-You are in the right place, you can continue to next page to follow the installlation process
+You are in the right place, you can continue to the next page to follow the installation process
 
 ### Driver mobile app
 

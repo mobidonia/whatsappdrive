@@ -5,8 +5,8 @@
 ## Installation <a href="#docs" id="docs"></a>
 
 * [Installation on Shared Hosting](docs/installation.md)
-* [Updating - Shared hosting](docs/updating-shared-hosting.md)
 * [Run local](docs/run-locally.md)
+* [Updating - Shared hosting](docs/updating-shared-hosting.md)
 
 ## Define Basics
 

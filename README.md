@@ -8,9 +8,15 @@ Welcome to WhatsApp Taxi's Documentation.
 
 ![](<.gitbook/assets/CoverHiRes (1).jpg>)
 
-### Web project docs
+### Folder structure
 
-You are in the right place, you can continue to the next page to follow the installation process
+![](<.gitbook/assets/CleanShot 2022-05-04 at 11.23.05 2.png>)
+
+1. Driver Mobile app - The app for the driver
+2. Client Mobile app - The app for the client
+3. This is the zip that contains the code for the web project of WhatsApp Taxi. (Start with it)
+
+### Web project of WhatsApp Taxi
 
 #### To install the project directly on shared hosting
 

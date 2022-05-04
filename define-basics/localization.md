@@ -4,9 +4,7 @@
 
 By default is set in English but you can change it on some of the available languages.
 
-This option you will find in **Settings &gt; Localization**.
-
-![](https://github.com/dimovdaniel/poscloud/tree/8df92fbd19d751b10539f8e7e63923d91da8c35e/.gitbook/assets/screenshot%20%281%29.png)
+This option you will find in **Settings > Localization**.
 
 ### **Adding new language**
 
@@ -14,7 +12,9 @@ Since some of the languages are still not available you can add manually new lan
 
 For more detailed information check the **Translations** article on the link below
 
-{% page-ref page="../usage/translations.md" %}
+{% content-ref url="../usage/translations.md" %}
+[translations.md](../usage/translations.md)
+{% endcontent-ref %}
 
 ## Time Format
 
@@ -27,7 +27,7 @@ There are two options:
 
 By default is 24 hours time format.
 
-```text
+```
 TIME_FORMAT="24hours"
 ```
 
@@ -37,9 +37,8 @@ To set the correct timezone that your site operates in create .env variable.
 
 It is really important to have done this step, in order restaurant closing and open time to work ok.
 
-```text
+```
 TIME_ZONE=UTC
 ```
 
 List of available [timezones](https://www.php.net/manual/en/timezones.php).
-

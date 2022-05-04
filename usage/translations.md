@@ -42,40 +42,6 @@ There enter the existing string ( String that you see on the site ex. Platform F
 
 ![](https://i.imgur.com/zaB7LVU.png)
 
-## Add language on the front page
-
-The dropdown of languages you see on the front page and in the admin language changer
-
-![](https://i.imgur.com/tmVHN6R.png)
-
-Is controlled from Settings -> Localization.
-
-![](https://i.imgur.com/Nc5e8xA.png)
-
-## Add language on the front page
-
-The dropdown of languages you see on the front page and in the admin language changer
-
-![](https://i.imgur.com/tmVHN6R.png)
-
-Is controlled from Settings -> Localization.
-
-![](https://i.imgur.com/Nc5e8xA.png)
-
-> Please make sure you have the following format. SHORTCODE,Language name for example
-
-`EN,English,FR,French`
-
-`EN,English`
-
-`EN,English,FR,French,RU,Russian,ES,Spanish`
-
-## Translate the front page
-
-To work on translating the front page, log in as admin, and go back to the homepage, you have the option to edit the translatable strings in that language.
-
-![](https://i.imgur.com/ESEH0Od.png)
-
 ## Missing translation after update
 
 We are maintaining only the English language. And with each update, we may add new strings in the **en.json** or some file in the **en** folder. We list this in the list of updated files.
@@ -89,7 +55,3 @@ The missing translations will show as empty. So make sure you translate them.
 After adding the missing translation, you can switch to your language.
 
 \-- Another option will be to use a tool like PoEditor, where you can update en.json in order to maintain full translation.
-
-## Multi language menu
-
-In some languages like arabic, the characters take up lot more spaces. So the default table size count is not enough. [Here](https://cln.sh/St3NVI) is how to change it to text

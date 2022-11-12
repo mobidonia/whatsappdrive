@@ -6,6 +6,7 @@
 
 * Language selector on the landing page
 * Categorization of the drivers ( via the free module )
+* Export companies
 * Filter by category of driver
 * Live tracking of driver position for client ( requires small app update)
 * Admin menu reorganization

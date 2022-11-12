@@ -1,5 +1,29 @@
 # Changelog
 
+## 3.4.0 - 2022-11-12
+
+### New
+
+* Language selector on the landing page
+* Categorization of the drivers ( via the free module )
+* Filter by category of driver
+* Live tracking of driver position for client ( requires small app update)
+* Admin menu reorganization
+
+### Modules
+
+* Categories - free module
+  
+### How to update
+
+Just log in as admin, go to "Updates" and you should see new "New Update 3.4.0" button. Click on the button to update. Note that this is a bigger update. Please check the List of files to confirm it will not overwrite some of your changes if you have them. NOTE: For this update we strongly recommend to backup your database and files.
+
+### List of updated files
+
+[Updated files](https://paste.laravel.io/0bbe4bc1-ef8b-48c5-bb7f-c28272eb80b1)
+
+
+
 ## 3.3.x - Continues updates
 
 * 3.3.1 Small improvements [Changes](https://share.cleanshot.com/EzvOZR) [Files](https://paste.laravel.io/6dfcd9f1-9daf-4682-87f0-ba4ace82e7a6)

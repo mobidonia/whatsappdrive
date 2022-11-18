@@ -1,5 +1,10 @@
 # Changelog
 
+## 3.4.x - Continues updates
+
+* 3.4.1 Doesn't effect this project - Change in resources/views/items/edit.blade.php and config/config.php
+
+
 ## 3.4.0 - 2022-11-12
 
 ### New

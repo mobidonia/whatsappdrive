@@ -3,18 +3,7 @@
 ## 3.6.0 - 2023-05-29
 
 ### Modules
-* Tips - free module
-* Social profiles - free module
-* Stock
 * Razorpay subscription
-* Glow - new theme
-
-### New
-* Allow staff to login in owner app
-
-### Improvements
-* Improvements in KDS and POS module
-
 
 ### How to update
 

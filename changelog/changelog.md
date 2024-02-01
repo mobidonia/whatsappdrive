@@ -1,5 +1,22 @@
 # Changelog
 
+
+## 4.0.0 - 2024-01-02
+
+### New
+* Laravel v10
+* Apps in separate menu
+  
+  
+### Updating
+
+To update from the previous release, follow the [standard update procedure](https://mobidonia.gitbook.io/mresto/changelog/updating-shared-hosting).
+
+Before update, make sure to make a backup
+This update requires PHP 8.2
+
+After that, log in as admin
+
 ## 3.6.0 - 2023-05-29
 
 ### Modules
